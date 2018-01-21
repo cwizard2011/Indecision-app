@@ -3,5 +3,5 @@ node_js:
     - "6"
 
 script:
-    - npm run dev-server
+    - npm run build-dev
     
