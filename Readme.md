@@ -13,4 +13,4 @@ To use the app
 
 5. You can also access the live apps on https://peter-indecicion-app.herokuapp.com/
 
-Thanks
+Thanks.
