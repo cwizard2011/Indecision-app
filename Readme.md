@@ -1,7 +1,7 @@
- INDECISION APP
+## INDECISION APP
 This app is a single page app that allows the user to add different options of what you like to do, but dont know which to pick, you allow the computer to decide for you.
 
-To use the app
+## To use the app :
 
 1. clone the repository and run 'npm install' or 'yarn install' depending on your choice
 
